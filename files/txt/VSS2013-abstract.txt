@@ -1,0 +1,32 @@
+Qiufang Fu, Yong-Jin Liu, Wenfeng Chen, Xiaolan Fu. 
+Time course of natural scene categorization in human brain: simple line-drawings vs. color photographs. 
+Journal of Vision, Vol. 13, No. 9, article. 1060; doi:10.1167/13.9.1060, 2013. 
+
+Abstract
+
+Human beings are very quick and efficient at categorizing nature scenes. 
+Recent functional MRI studies found that the neural activation in response 
+to line-drawings was similar to color photographs (e.g., Walter et al., 2011). 
+However, it remains unclear whether the time course of braining activity 
+was similar to the different images. The present study was aimed to 
+investigate how the nature scene categorization of line-drawings and 
+color photographs was reflected in event-related potentials (ERPs). 
+Color photographs and line-drawings of six natural scene categories 
+(beaches, city streets, forests, highways, mountains and offices) were 
+adopted as stimuli, which were first used by Walter et al. (2011). All 
+the images were resized to a resolution of 320 * 240 pixels. Each of 
+them was flashed for 13 ms, and then followed by 100 ms of mask stimuli 
+and 500 ms of a blank. The stimulus onset asynchrony (SOA) between the 
+image and the mask was 13, 26, 40 or 213 ms. On each trial, participants 
+were asked to report the scene category by pressing a key after the blank.
+Each participant was tested for 10 blocks of 96 trials. ERPs were recorded 
+during the experiment. The behavioral results showed that the accuracy was 
+higher for line-drawings than color photographs when SOA was 13 ms, but was 
+lower when SOA was greater than 13 ms. Importantly, the ERP results revealed 
+that a more negative N170 in occipital electrodes and a more positive P2 in 
+frontocentral electrodes were elicited by incorrect than correct categorization 
+of color photographs, whereas a more positive P1 in occipital electrodes and 
+a more negative N2 in frontocentral electrodes were led to by incorrect than 
+correct categorization of line-drawings. These findings help to understand 
+the role of color in rapid scene categorization and how human brain 
+categorizes different visual stimuli. 
